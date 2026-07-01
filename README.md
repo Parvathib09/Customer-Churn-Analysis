@@ -73,8 +73,8 @@ This project demonstrates the use of Power BI for business intelligence by combi
 
 ---
 ### Dashboard Preview
+[customerchurn2.pdf](https://github.com/user-attachments/files/29561329/customerchurn2.pdf)
 
-[customerchurn.pdf](https://github.com/user-attachments/files/29508418/customerchurn.pdf)
 
 ---
 
